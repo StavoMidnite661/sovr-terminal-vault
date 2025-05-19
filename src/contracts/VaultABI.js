@@ -1,0 +1,1 @@
+export const VaultABI = [/* Vault ABI goes here */];
